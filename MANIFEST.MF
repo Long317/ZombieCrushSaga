@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.4
+Created-By: 1.7.0_17-b02 (Oracle Corporation)
+Class-Path: lib/PropertiesManager.jar lib/MiniGameFramework.jar lib/XM
+ LUtilities.jar lib/AudioManager.jar
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: zombiecrushsaga.ZombieCrushSaga
+
